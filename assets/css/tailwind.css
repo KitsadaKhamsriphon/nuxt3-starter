@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* layout */
+.content {
+    @apply px-5 md:px-20 lg:px-40;
+  }

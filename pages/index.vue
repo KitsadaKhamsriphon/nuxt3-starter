@@ -1,6 +1,10 @@
 <template>
-  <div>
-    <NuxtDemo />
+  <div class="content ">
+    <Menu />
+      <FirstContent />
+    <div >
+      <SecondContent />
+    </div>
   </div>
 </template>
 

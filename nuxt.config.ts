@@ -11,6 +11,7 @@ export default defineNuxtConfig({
       link: [{ rel: 'icon', type: 'image/*', href: '/favicon.svg' }]
     }
   },
+  css: ["~/assets/css/tailwind.css"],
   modules: [
     '@unocss/nuxt',
     '@pinia/nuxt',
