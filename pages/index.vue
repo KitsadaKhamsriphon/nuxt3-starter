@@ -3,7 +3,7 @@
     <Menu />
       <FirstContent />
     <div >
-      <SecondContent />
+      <ThirdContent />
     </div>
   </div>
 </template>
